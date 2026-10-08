@@ -1,0 +1,5 @@
+TRABAJO 5 - FLOR AMARILLA
+
+Flor realizada únicamente con HTML y CSS: pétalos amarillos, centro café, tallo y hojas verdes, fondo degradado y transformaciones CSS.
+
+Abrir index.html en el navegador.
